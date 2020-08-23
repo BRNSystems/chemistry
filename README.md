@@ -8,3 +8,5 @@ There are now only two recepies.
 You can tell me which should i add in pull requests.
 
 Thanks
+
+Texture generating script and texture design from: https://github.com/bas080/chemistry
