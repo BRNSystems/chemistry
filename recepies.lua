@@ -1,0 +1,2 @@
+register_chemical_recepie("default:dirt","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si")
+register_chemical_recepie("default:sand","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar","chemistry:Si","chemistry:Ar")
